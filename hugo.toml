@@ -1,5 +1,5 @@
-baseurl = "http://www.example.com"
-title = "johndoe"
+baseurl = "http://pylhr.github.io"
+title = "pylhr"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -12,18 +12,18 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
-  author = "John Doe"
-  info = "Full Stack DevOps and Magician"
-  description = "John Doe's personal website"
+  author = "Priyanshu Lohar"
+  info = "Digital Portfolio"
+  description = "Priyanshu's online repository"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+  #gravatar = "priyanshulohar1@gmail.com"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2024
 
   enableTwemoji = true
 
@@ -45,24 +45,24 @@ style = "github-dark"
   name = "Github"
   icon = "fa fa-github fa-2x"
   weight = 1
-  url = "https://github.com/johndoe/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
+  url = "https://github.com/pylhr/"
+
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://twitter.com/pylhr/"
 
 # Menu links
 [[menu.main]]
   name = "Blog"
   weight = 1
-  url  = "posts/"
+  url  = "post/"
+[[menu.main]]
+  name = "Projects"
+  weight = 2
+  url = "about/"
 [[menu.main]]
   name = "About"
-  weight = 2
+  weight = 3
   url = "about/"
