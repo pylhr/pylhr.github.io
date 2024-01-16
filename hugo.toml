@@ -16,7 +16,7 @@ style = "github-dark"
   info = "Digital Portfolio"
   description = "Priyanshu's online repository"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "avatar.jpg"
   #gravatar = "priyanshulohar1@gmail.com"
 
   faviconSVG = "/img/favicon.svg"
