@@ -46,4 +46,11 @@ The layout of a Solidity source file typically includes several components:
     */
     ```
 
+5. Contract: Contracts in solidity are similar to classess in object oriented languages, and these are the main part of our source file.
+    ```solidity
+    contract ContractName{
+        //body of our smart contract
+    }
+    ```
+
 These components collectively form the structure of a Solidity source file, facilitating readability, maintainability, and compliance with licensing and versioning requirements.
