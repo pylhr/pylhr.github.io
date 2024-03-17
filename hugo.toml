@@ -54,6 +54,12 @@ style = "github-dark"
   url = "https://twitter.com/pylhr/"
 
 [[params.social]]
+  name = "Youtube"
+  icon = "fa fa-youtube fa-2x"
+  weight = 2
+  url = "https://www.youtube.com/@pylhr"
+
+[[params.social]]
   name = "Linkedin"
   icon = "fa fa-linkedin fa-2x"
   weight = 3  

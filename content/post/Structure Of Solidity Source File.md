@@ -1,7 +1,7 @@
 +++
 title = 'Structure Of Solidity Source File'
 date = 2024-01-04T16:26:24+05:30
-
+tags = ['solidity', 'web3', 'smart contract']
 +++
 
 The layout of a Solidity source file typically includes several components:
