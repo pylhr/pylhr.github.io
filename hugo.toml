@@ -40,6 +40,9 @@ style = "github-dark"
   tag = "tags"
   author = "authors"
 
+[params.goatCounter]
+  code = "pylhr"
+  
 # Social links
 [[params.social]]
   name = "Github"
